@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b1e8b0b-9f73-4783-8b32-1c431b3073a9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/general_test.py">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="85">
+                    <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="29" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/functionalities.py">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="290">
+                    <caret line="44" column="37" selection-start-line="2" selection-end-line="3" selection-end-column="39" />
+                    <folding>
+                      <element signature="e#0#36#0" expanded="true" />
+                      <element signature="e#671#748#0" />
+                      <element signature="e#770#787#0" />
+                      <element signature="e#810#828#0" />
+                      <element signature="e#854#1207#0" />
+                      <element signature="e#1239#1357#0" />
+                      <element signature="e#1385#1417#0" />
+                      <element signature="e#1496#2305#0" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/object_tracking.py">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="442">
+                    <caret line="158" column="29" selection-start-line="158" selection-start-column="20" selection-end-line="158" selection-end-column="29" />
+                    <folding>
+                      <element signature="e#8455#10373#0" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/deep_sort_pytorch/deep_sort/deep_sort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#318#4009#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/deep_sort_pytorch/configs/deep_sort.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="58" selection-start-line="1" selection-start-column="58" selection-end-line="1" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/Python38/Lib/site-packages/torch/serialization.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="763" selection-start-line="763" selection-end-line="763" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="579" selection-start-line="579" selection-end-line="579" />
+              <folding>
+                <element signature="e#8155#10530#0" />
+                <element signature="e#10572#11613#0" />
+                <element signature="e#11697#13830#0" />
+                <element signature="e#14754#15016#0" />
+                <element signature="e#15051#16316#0" />
+                <element signature="e#16423#16516#0" />
+                <element signature="e#16563#17235#0" />
+                <element signature="e#17310#19802#0" />
+                <element signature="e#19847#22331#0" />
+                <element signature="e#25877#26130#0" />
+                <element signature="e#26258#26694#0" />
+                <element signature="e#26757#27108#0" />
+                <element signature="e#27220#27477#0" />
+                <element signature="e#27590#28355#0" />
+                <element signature="e#28442#29520#0" />
+                <element signature="e#29626#33665#0" />
+                <element signature="e#33717#34516#0" />
+                <element signature="e#34565#35921#0" />
+                <element signature="e#35944#36109#0" />
+                <element signature="e#36161#36816#0" />
+                <element signature="e#37011#37400#0" />
+                <element signature="e#37478#38193#0" />
+                <element signature="e#38271#38902#0" />
+                <element signature="e#39018#42215#0" />
+                <element signature="e#42279#42717#0" />
+                <element signature="e#42787#43277#0" />
+                <element signature="e#43357#43800#0" />
+                <element signature="e#43897#45253#0" />
+                <element signature="e#45285#46220#0" />
+                <element signature="e#46318#47054#0" />
+                <element signature="e#47157#48266#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yolov5/detect.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-40">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DeepSORT_tracking.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="51" column="61" selection-start-line="51" selection-start-column="61" selection-end-line="51" selection-end-column="61" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/torch_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="193" column="26" selection-start-line="193" selection-start-column="22" selection-end-line="193" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#231#566#0" />
+                <element signature="e#632#1868#0" />
+                <element signature="e#1900#1986#0" />
+                <element signature="e#2024#2358#0" />
+                <element signature="e#2408#2541#0" />
+                <element signature="e#2580#3668#0" />
+                <element signature="e#3713#4668#0" />
+                <element signature="e#4719#5379#0" />
+                <element signature="e#5465#5888#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/google_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+              <folding>
+                <element signature="e#174#183#0" expanded="true" />
+                <element signature="e#258#1747#0" />
+                <element signature="e#1832#3329#0" />
+                <element signature="e#3331#3403#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/datasets.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="221" column="17" selection-start-line="221" selection-start-column="12" selection-end-line="221" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>out</find>
+      <find>file_name</find>
+      <find>move</find>
+      <find>file</find>
+      <find>video</find>
+      <find>nu</find>
+      <find>nump</find>
+      <find>textfi</find>
+      <find>qs</find>
+      <find>text</find>
+      <find>im0</find>
+      <find>resi</find>
+      <find>Qım</find>
+      <find>ord</find>
+      <find>name</find>
+      <find>cv2</find>
+      <find>load</find>
+      <find>total</find>
+      <find>t0</find>
+      <find>type(</find>
+      <find>torch</find>
+      <find>transform</find>
+      <find>transform_images</find>
+      <find>convert_</find>
+      <find>deepsort</find>
+      <find>print(</find>
+      <find>print(ty</find>
+      <find>id</find>
+      <find>print</find>
+      <find>type</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/deep_sort" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Gui.py" />
+        <option value="$PROJECT_DIR$/gui_teset.py" />
+        <option value="$PROJECT_DIR$/burak.txt" />
+        <option value="$PROJECT_DIR$/form.ui" />
+        <option value="$PROJECT_DIR$/tkinter.py" />
+        <option value="$PROJECT_DIR$/videoplayer_test.py" />
+        <option value="$PROJECT_DIR$/videoPlayer_Gui.py" />
+        <option value="$PROJECT_DIR$/gui_test.py" />
+        <option value="$PROJECT_DIR$/gui_test_2.py" />
+        <option value="$PROJECT_DIR$/yolov5/detect.py" />
+        <option value="$PROJECT_DIR$/form2.ui" />
+        <option value="$PROJECT_DIR$/detectV2.0.py" />
+        <option value="$PROJECT_DIR$/detectV2.py" />
+        <option value="$PROJECT_DIR$/utils/torch_utils.py" />
+        <option value="$PROJECT_DIR$/utils/datasets.py" />
+        <option value="$PROJECT_DIR$/general_test.py" />
+        <option value="$PROJECT_DIR$/track.py" />
+        <option value="$PROJECT_DIR$/deep_sort_pytorch/configs/deep_sort.yaml" />
+        <option value="$PROJECT_DIR$/functionalities.py" />
+        <option value="$PROJECT_DIR$/utils/utils.py" />
+        <option value="$PROJECT_DIR$/object_tracking.py" />
+        <option value="$PROJECT_DIR$/DeepSORT_tracking.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="642" />
+    <option name="width" value="1285" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Local_Car_Detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Local_Car_Detection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Local_Car_Detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Local_Car_Detection" type="462c0819:PsiDirectoryNode" />
+              <item name="deep_sort_pytorch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Local_Car_Detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Local_Car_Detection" type="462c0819:PsiDirectoryNode" />
+              <item name="deep_sort_pytorch" type="462c0819:PsiDirectoryNode" />
+              <item name="deep_sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Local_Car_Detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Local_Car_Detection" type="462c0819:PsiDirectoryNode" />
+              <item name="deep_sort_pytorch" type="462c0819:PsiDirectoryNode" />
+              <item name="deep_sort" type="462c0819:PsiDirectoryNode" />
+              <item name="deep" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Local_Car_Detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Local_Car_Detection" type="462c0819:PsiDirectoryNode" />
+              <item name="inference" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Local_Car_Detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Local_Car_Detection" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Local_Car_Detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Local_Car_Detection" type="462c0819:PsiDirectoryNode" />
+              <item name="yolov5" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/deep_sort_pytorch/deep_sort/deep/checkpoint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\PycharmProjects\Local_Car_Detection\utils\old" />
+      <recent name="C:\Users\Lenovo\PycharmProjects\Local_Car_Detection\utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\PycharmProjects\Local_Car_Detection\deep_sort_pytorch\deep_sort\deep\checkpoint" />
+      <recent name="C:\Users\Lenovo\PycharmProjects\Local_Car_Detection\utils" />
+      <recent name="C:\Users\Lenovo\PycharmProjects\Local_Car_Detection" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.object_tracking (1)">
+    <configuration name="functionalities" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Local_Car_Detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functionalities.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="general_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Local_Car_Detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/general_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generate_videos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Local_Car_Detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/deep_sort" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deep_sort/generate_videos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="object_tracking (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Local_Car_Detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/object_tracking.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="object_tracking" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Local_Car_Detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Lenovo\PycharmProjects\Local_Car_Detection\object_tracking_old.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.object_tracking (1)" />
+        <item itemvalue="Python.functionalities" />
+        <item itemvalue="Python.general_test" />
+        <item itemvalue="Python.object_tracking" />
+        <item itemvalue="Python.generate_videos" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b1e8b0b-9f73-4783-8b32-1c431b3073a9" name="Default Changelist" comment="" />
+      <created>1594484860528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594484860528</updated>
+      <workItem from="1594484861677" duration="15227000" />
+      <workItem from="1594617572169" duration="1680000" />
+      <workItem from="1594625571983" duration="2123000" />
+      <workItem from="1594628307939" duration="789000" />
+      <workItem from="1594640009917" duration="1359000" />
+      <workItem from="1594665660984" duration="734000" />
+      <workItem from="1594673398777" duration="2901000" />
+      <workItem from="1594702455240" duration="4027000" />
+      <workItem from="1594712278203" duration="4685000" />
+      <workItem from="1594804546467" duration="1709000" />
+      <workItem from="1594811080726" duration="1154000" />
+      <workItem from="1594989971900" duration="1602000" />
+      <workItem from="1595184391217" duration="78000" />
+      <workItem from="1595191730880" duration="1683000" />
+      <workItem from="1595220880732" duration="5723000" />
+      <workItem from="1595250513549" duration="3082000" />
+      <workItem from="1595271249164" duration="3229000" />
+      <workItem from="1595307437544" duration="1308000" />
+      <workItem from="1595320853263" duration="162000" />
+      <workItem from="1595321348663" duration="611000" />
+      <workItem from="1595338268518" duration="1210000" />
+      <workItem from="1595486386837" duration="91000" />
+      <workItem from="1595720075635" duration="390000" />
+      <workItem from="1595750228748" duration="381000" />
+      <workItem from="1595773176876" duration="4435000" />
+      <workItem from="1595784896100" duration="5465000" />
+      <workItem from="1595826027722" duration="4756000" />
+      <workItem from="1595848967857" duration="453000" />
+      <workItem from="1595849949952" duration="1374000" />
+      <workItem from="1595872938663" duration="3236000" />
+      <workItem from="1595915152181" duration="1984000" />
+      <workItem from="1595999830531" duration="10247000" />
+      <workItem from="1596523357504" duration="3237000" />
+      <workItem from="1596568459939" duration="389000" />
+      <workItem from="1596900286426" duration="8123000" />
+      <workItem from="1596992721122" duration="2083000" />
+      <workItem from="1597006209768" duration="587000" />
+      <workItem from="1597007569163" duration="380000" />
+      <workItem from="1597008273240" duration="605000" />
+      <workItem from="1597082700872" duration="1837000" />
+      <workItem from="1597179843675" duration="3646000" />
+      <workItem from="1597257054077" duration="6298000" />
+      <workItem from="1597435395650" duration="1201000" />
+      <workItem from="1598171071190" duration="1960000" />
+      <workItem from="1598301612528" duration="5834000" />
+      <workItem from="1598347561932" duration="2174000" />
+      <workItem from="1602688772365" duration="133000" />
+      <workItem from="1603751026803" duration="602000" />
+      <workItem from="1603754738004" duration="96000" />
+      <workItem from="1605204208947" duration="1019000" />
+      <workItem from="1605453370371" duration="600000" />
+      <workItem from="1606589412163" duration="595000" />
+      <workItem from="1607164748075" duration="1371000" />
+      <workItem from="1607453216779" duration="1168000" />
+      <workItem from="1608222522806" duration="6723000" />
+      <workItem from="1608229924146" duration="6389000" />
+      <workItem from="1608452001488" duration="16720000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="161658000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="642" y="0" width="1285" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.62332547" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947917" visible="true" weight="0.38568377" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39956802" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005208" side_tool="true" weight="0.17883597" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.33038673" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/yolov5/detect.py</url>
+          <line>157</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/yolov5/detect.py</url>
+          <line>164</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/functionalities.py</url>
+          <line>192</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/torch_utils.py</url>
+          <line>100</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/object_tracking.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Local_Car_Detection$torch_utils.coverage" NAME="torch_utils Coverage Results" MODIFIED="1595785509375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/Local_Car_Detection$gui_test_2.coverage" NAME="gui_test_2 Coverage Results" MODIFIED="1594677296685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Local_Car_Detection$tkinter.coverage" NAME="tkinter Coverage Results" MODIFIED="1594670981319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Local_Car_Detection$general_test.coverage" NAME="general_test Coverage Results" MODIFIED="1608478404495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Local_Car_Detection$functionalities.coverage" NAME="functionalities Coverage Results" MODIFIED="1608481983203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Local_Car_Detection$track.coverage" NAME="track Coverage Results" MODIFIED="1607453766171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Local_Car_Detection$generate_videos.coverage" NAME="generate_videos Coverage Results" MODIFIED="1608452423178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/deep_sort" />
+    <SUITE FILE_PATH="coverage/Local_Car_Detection$detectV2.coverage" NAME="detectV2 Coverage Results" MODIFIED="1595776733270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Local_Car_Detection$detectV2_0.coverage" NAME="detectV2.0 Coverage Results" MODIFIED="1595271440154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Local_Car_Detection$hw3_mnist_read.coverage" NAME="hw3_mnist_read Coverage Results" MODIFIED="1607166370048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/Local_Car_Detection$object_tracking.coverage" NAME="object_tracking Coverage Results" MODIFIED="1608454983103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Local_Car_Detection$object_tracking__1_.coverage" NAME="object_tracking (1) Coverage Results" MODIFIED="1608482235003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Local_Car_Detection$videoplayer_test.coverage" NAME="videoplayer_test Coverage Results" MODIFIED="1594675782969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Local_Car_Detection$utils.coverage" NAME="utils Coverage Results" MODIFIED="1608232381116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/Local_Car_Detection$videoPlayer_Gui.coverage" NAME="videoPlayer_Gui Coverage Results" MODIFIED="1594703437075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Local_Car_Detection$detect.coverage" NAME="detect Coverage Results" MODIFIED="1595192613890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yolov5" />
+    <SUITE FILE_PATH="coverage/Local_Car_Detection$gui_test.coverage" NAME="gui_test Coverage Results" MODIFIED="1594629065878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>print()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/yolov5/.github/ISSUE_TEMPLATE/--feature-request.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yolov5/.github/ISSUE_TEMPLATE/--bug-report.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form4.ui">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="240" column="48" selection-start-line="240" selection-start-column="34" selection-end-line="240" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inference/output/stmarc_video_167.txt" />
+    <entry file="file://C:/Python38/Lib/site-packages/torch/nn/modules/module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9044">
+          <caret line="540" selection-start-line="540" selection-end-line="540" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python38/Lib/pathlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17425">
+          <caret line="1037" selection-start-line="1037" selection-end-line="1037" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python38/Lib/site-packages/torch/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="631">
+          <caret line="1358" column="4" selection-start-line="1358" selection-start-column="4" selection-end-line="1358" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form5.ui">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/hw3_mnist_read.py" />
+    <entry file="file://$PROJECT_DIR$/utils/loss.py" />
+    <entry file="file://$PROJECT_DIR$/track.py" />
+    <entry file="file://$USER_HOME$/anaconda3/Lib/site-packages/PyQt5/QtMultimedia.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="2267" lean-forward="true" selection-start-line="2267" selection-end-line="2267" />
+          <folding>
+            <element signature="e#921#934#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python38/Lib/site-packages/torch/functional.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24">
+          <caret line="677" selection-start-line="677" selection-end-line="677" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python38/Lib/site-packages/torch/_jit_internal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="258" selection-start-line="258" selection-end-line="258" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python38/Lib/site-packages/torch/tensor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="489" selection-start-line="489" selection-end-line="489" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_sort_pytorch/utils/io.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_sort_pytorch/deep_sort/deep/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/activations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/yolo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31">
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yolov5/hubconf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yolov5/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1020">
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_sort/deep_sort/detection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_sort/deep_sort/iou_matching.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_sort/deep_sort/kalman_filter.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_sort/deep_sort/linear_assignment.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_sort/deep_sort/nn_matching.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_sort/deep_sort/track.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yolov5/models/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_sort/show_results.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#27#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_sort/generate_videos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_sort/evaluate_motchallenge.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yolov5/models/experimental.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object_tracking_old.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yolov5/models/yolo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="207" column="26" selection-start-line="207" selection-start-column="26" selection-end-line="207" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#830#1662#0" />
+            <element signature="e#1724#1857#0" />
+            <element signature="e#6514#9227#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yolov5/models/export.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Python38/Lib/site-packages/torch/serialization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="763" selection-start-line="763" selection-end-line="763" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/general_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_sort_pytorch/deep_sort/deep/feature_extractor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_sort_pytorch/deep_sort/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_sort_pytorch/configs/deep_sort.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="58" selection-start-line="1" selection-start-column="58" selection-end-line="1" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_sort/deep_sort_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#27#91#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yolov5/detect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-40">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/torch_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="193" column="26" selection-start-line="193" selection-start-column="22" selection-end-line="193" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#231#566#0" />
+            <element signature="e#632#1868#0" />
+            <element signature="e#1900#1986#0" />
+            <element signature="e#2024#2358#0" />
+            <element signature="e#2408#2541#0" />
+            <element signature="e#2580#3668#0" />
+            <element signature="e#3713#4668#0" />
+            <element signature="e#4719#5379#0" />
+            <element signature="e#5465#5888#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/google_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="e#174#183#0" expanded="true" />
+            <element signature="e#258#1747#0" />
+            <element signature="e#1832#3329#0" />
+            <element signature="e#3331#3403#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functionalities.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="44" column="37" selection-start-line="2" selection-end-line="3" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+            <element signature="e#671#748#0" />
+            <element signature="e#770#787#0" />
+            <element signature="e#810#828#0" />
+            <element signature="e#854#1207#0" />
+            <element signature="e#1239#1357#0" />
+            <element signature="e#1385#1417#0" />
+            <element signature="e#1496#2305#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/datasets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="221" column="17" selection-start-line="221" selection-start-column="12" selection-end-line="221" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="579" selection-start-line="579" selection-end-line="579" />
+          <folding>
+            <element signature="e#8155#10530#0" />
+            <element signature="e#10572#11613#0" />
+            <element signature="e#11697#13830#0" />
+            <element signature="e#14754#15016#0" />
+            <element signature="e#15051#16316#0" />
+            <element signature="e#16423#16516#0" />
+            <element signature="e#16563#17235#0" />
+            <element signature="e#17310#19802#0" />
+            <element signature="e#19847#22331#0" />
+            <element signature="e#25877#26130#0" />
+            <element signature="e#26258#26694#0" />
+            <element signature="e#26757#27108#0" />
+            <element signature="e#27220#27477#0" />
+            <element signature="e#27590#28355#0" />
+            <element signature="e#28442#29520#0" />
+            <element signature="e#29626#33665#0" />
+            <element signature="e#33717#34516#0" />
+            <element signature="e#34565#35921#0" />
+            <element signature="e#35944#36109#0" />
+            <element signature="e#36161#36816#0" />
+            <element signature="e#37011#37400#0" />
+            <element signature="e#37478#38193#0" />
+            <element signature="e#38271#38902#0" />
+            <element signature="e#39018#42215#0" />
+            <element signature="e#42279#42717#0" />
+            <element signature="e#42787#43277#0" />
+            <element signature="e#43357#43800#0" />
+            <element signature="e#43897#45253#0" />
+            <element signature="e#45285#46220#0" />
+            <element signature="e#46318#47054#0" />
+            <element signature="e#47157#48266#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_sort_pytorch/deep_sort/deep_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#318#4009#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepSORT_tracking.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="51" column="61" selection-start-line="51" selection-start-column="61" selection-end-line="51" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object_tracking.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="158" column="29" selection-start-line="158" selection-start-column="20" selection-end-line="158" selection-end-column="29" />
+          <folding>
+            <element signature="e#8455#10373#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
